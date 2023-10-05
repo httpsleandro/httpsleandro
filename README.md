@@ -3,6 +3,8 @@
 
 <p align="center">Transformando ideias em software funcional. 🚀 <br><br> Cursando Técnologia da Informação. Hoje, sou um Desenvolvedor Back-end em nível iniciante focado em Desenvolvimento Web. </p>&nbsp;
 
+![Leandro GitHub stats](https://github-readme-stats.vercel.app/api?username=leandro-schiavo&show_icons=true&theme=radical)
+
 <div>
    <a href="https://github.com/leandro-schiavo">
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandro-schiavo&layout=compact&langs_count=16&theme=dracula"/>
