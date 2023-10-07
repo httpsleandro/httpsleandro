@@ -5,7 +5,7 @@
 
 ![Leandro GitHub stats](https://github-readme-stats.vercel.app/api?username=leandro-schiavo&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandro-schiavo&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandro-schiavo&layout=compact&theme=radical)
  
  &nbsp;
  &nbsp;
