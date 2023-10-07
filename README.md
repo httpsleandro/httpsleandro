@@ -5,10 +5,7 @@
 
 ![Leandro GitHub stats](https://github-readme-stats.vercel.app/api?username=leandro-schiavo&show_icons=true&theme=radical)
 
-<div>
-   <a href="https://github.com/leandro-schiavo">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandro-schiavo&layout=compact&langs_count=16&theme=radical"/>
-   </div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandro-schiavo&layout=compact)
  
  &nbsp;
  &nbsp;
