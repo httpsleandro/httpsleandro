@@ -1,7 +1,7 @@
 # Olá! Eu sou o Leandro Schiavo. <br><br>
 
 
-<p align="center">Transformando ideias em software funcional. 🚀 <br><br> Cursando Técnologia da Informação. Hoje, sou um Desenvolvedor Back-end em nível iniciante focado em Desenvolvimento Web. </p>&nbsp;
+<p align="center">Transformando ideias em software funcional. 🚀 <br><br> Formado em Técnico T.I e cursando Ciências da Computação. Hoje, sou um Desenvolvedor Back-end em nível iniciante focado em Desenvolvimento Web. </p>&nbsp;
 
 ![Leandro GitHub stats](https://github-readme-stats.vercel.app/api?username=leandro-schiavo&show_icons=true&theme=radical)
 
